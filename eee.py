@@ -33,7 +33,7 @@ def _____mrpoco_____():
 	ua6 = '[FBAN/FB4A;FBAV/222.0.0.78.113;FBBV/155323375;FBDM/{density=3.5,width=1440,height=2792};FBLC/en_GB;FBRV/156387063;FBCR/3;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G955F;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]'
 	return random.choice([ua1,ua2,ua3,ua4,ua5,ua6])
 #-----------------------[ LOGO ]-----------------------#
-logo = f'''\n         {B} dP""b8 88 888888 888888 \n         {W}dP   `" 88 88__     88   \n         {R}Yb  "88 88 88""     88   \n         {P} YboodP 88 88       88 {G}0.0\n{W}{47*'-'}\n{xd} GIFT BY : MR-POCO \n{xd} TOOL : FILE CLONING\n{W}{47*'-'}'''
+logo = f'''\n         {B} dP""b8 88 888888 888888 \n         {W}dP   `" 88 88__     88   \n         {R}Yb  "88 88 88""     88   \n         {Y} YboodP 88 88       88 {G}0.0\n{W}{47*'-'}\n{xd} GIFT BY : MR-POCO \n{xd} TOOL : FILE CLONING\n{W}{47*'-'}'''
 #-----------------------[ MAIN MENU ]-----------------------#
 def mrpoco():
 	os.system('xdg-open https://t.me/MR_POCO_143')
